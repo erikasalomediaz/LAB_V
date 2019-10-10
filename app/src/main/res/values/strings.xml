@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="price">Unite Price</string>
+    <string name="Quantity">Quantity</string>
+    <string name="ProductName">Product Name</string>
+    <string name="edit">Edit</string>
+    <string name="title">Exam 1</string>
+    <string name="edit_title">Edit Product</string>
+</resources>
